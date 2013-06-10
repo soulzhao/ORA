@@ -1,0 +1,127 @@
+<?xml version="1.0" standalone="yes"?>
+
+<DynamicMetaNetwork id="Karate Club network">
+<MetaNetwork id="Karate Club network">
+<nodes>
+  <nodeclass type="Members" id="0">
+    <node id="0" name="Laola" sex="F"/>
+    <node id="1" name="Eson" sex="M"/>
+    <node id="2" name="Menda" sex="F"/>
+    <node id="3" name="Linda" sex="F"/>
+    <node id="4" name="Sam" sex="M"/>
+    <node id="5" name="Yang" sex="M"/>
+    <node id="6" name="Tina" sex="F"/>
+    <node id="7" name="Folori" sex="F"/>
+    <node id="8" name="Huli" sex="M"/>
+    <node id="9" name="Soul" sex="M"/>
+    <node id="10" name="Leno" sex="M"/>
+    <node id="11" name="David" sex="M"/>
+    <node id="12" name="Seanna" sex="F"/>
+    <node id="13" name="Tefa" sex="M"/>
+    <node id="14" name="Messi" sex="M"/>
+    <node id="15" name="Jack" sex="M"/>
+    <node id="16" name="Rose" sex="F"/>
+    <node id="17" name="Lin" sex="M"/>
+    <node id="18" name="Taisen" sex="M"/>
+    <node id="19" name="Tytle" sex="M"/>
+    <node id="20" name="William" sex="M"/>
+    <node id="21" name="Fill" sex="M"/>
+    <node id="22" name="Nash" sex="M"/>
+    <node id="23" name="Hill" sex="M"/>
+    <node id="24" name="Love" sex="M"/>
+    <node id="25" name="James" sex="M"/>
+    <node id="26" name="Wade" sex="M"/>
+    <node id="27" name="Bosh" sex="M"/>
+    <node id="28" name="Kadaisan" sex="F"/>
+    <node id="29" name="Audandan" sex="M"/>
+    <node id="30" name="Solin" sex="M"/>
+    <node id="31" name="France" sex="M"/>
+    <node id="32" name="Enda" sex="F"/>
+    <node id="33" name="Accive" sex="M"/>
+  </nodeclass>
+</nodes>
+<networks>
+  <network sourceType="Members" source="0" targetType="Members" target="0" id="0 x 0">
+    <link source="1" target="0"/>
+    <link source="2" target="0"/>
+    <link source="2" target="1"/>
+    <link source="3" target="0"/>
+    <link source="3" target="1"/>
+    <link source="3" target="2"/>
+    <link source="4" target="0"/>
+    <link source="5" target="0"/>
+    <link source="6" target="0"/>
+    <link source="6" target="4"/>
+    <link source="6" target="5"/>
+    <link source="7" target="0"/>
+    <link source="7" target="1"/>
+    <link source="7" target="2"/>
+    <link source="7" target="3"/>
+    <link source="8" target="0"/>
+    <link source="8" target="2"/>
+    <link source="9" target="2"/>
+    <link source="10" target="0"/>
+    <link source="10" target="4"/>
+    <link source="10" target="5"/>
+    <link source="11" target="0"/>
+    <link source="12" target="0"/>
+    <link source="12" target="3"/>
+    <link source="13" target="0"/>
+    <link source="13" target="1"/>
+    <link source="13" target="2"/>
+    <link source="13" target="3"/>
+    <link source="16" target="5"/>
+    <link source="16" target="6"/>
+    <link source="17" target="0"/>
+    <link source="17" target="1"/>
+    <link source="19" target="0"/>
+    <link source="19" target="1"/>
+    <link source="21" target="0"/>
+    <link source="21" target="1"/>
+    <link source="25" target="23"/>
+    <link source="25" target="24"/>
+    <link source="27" target="2"/>
+    <link source="27" target="23"/>
+    <link source="27" target="24"/>
+    <link source="28" target="2"/>
+    <link source="29" target="23"/>
+    <link source="29" target="26"/>
+    <link source="30" target="1"/>
+    <link source="30" target="8"/>
+    <link source="31" target="0"/>
+    <link source="31" target="24"/>
+    <link source="31" target="25"/>
+    <link source="31" target="28"/>
+    <link source="32" target="2"/>
+    <link source="32" target="8"/>
+    <link source="32" target="14"/>
+    <link source="32" target="15"/>
+    <link source="32" target="18"/>
+    <link source="32" target="20"/>
+    <link source="32" target="22"/>
+    <link source="32" target="23"/>
+    <link source="32" target="29"/>
+    <link source="32" target="30"/>
+    <link source="32" target="31"/>
+    <link source="33" target="8"/>
+    <link source="33" target="9"/>
+    <link source="33" target="13"/>
+    <link source="33" target="14"/>
+    <link source="33" target="15"/>
+    <link source="33" target="18"/>
+    <link source="33" target="19"/>
+    <link source="33" target="20"/>
+    <link source="33" target="22"/>
+    <link source="33" target="23"/>
+    <link source="33" target="26"/>
+    <link source="33" target="27"/>
+    <link source="33" target="28"/>
+    <link source="33" target="29"/>
+    <link source="33" target="30"/>
+    <link source="33" target="31"/>
+    <link source="33" target="32"/>
+  </network>
+</networks>
+</MetaNetwork>
+</DynamicMetaNetwork>
+

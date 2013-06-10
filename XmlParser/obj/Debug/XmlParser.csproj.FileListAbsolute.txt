@@ -1,0 +1,10 @@
+C:\Users\Soul\Desktop\ORA\XmlParser\bin\Debug\XmlParser.dll
+C:\Users\Soul\Desktop\ORA\XmlParser\bin\Debug\XmlParser.pdb
+C:\Users\Soul\Desktop\ORA\XmlParser\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Soul\Desktop\ORA\XmlParser\obj\Debug\XmlParser.dll
+C:\Users\Soul\Desktop\ORA\XmlParser\obj\Debug\XmlParser.pdb
+C:\Users\Soul\Desktop\毕业设计\ORA\XmlParser\bin\Debug\XmlParser.dll
+C:\Users\Soul\Desktop\毕业设计\ORA\XmlParser\bin\Debug\XmlParser.pdb
+C:\Users\Soul\Desktop\毕业设计\ORA\XmlParser\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Soul\Desktop\毕业设计\ORA\XmlParser\obj\Debug\XmlParser.dll
+C:\Users\Soul\Desktop\毕业设计\ORA\XmlParser\obj\Debug\XmlParser.pdb

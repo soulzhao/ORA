@@ -1,0 +1,14 @@
+C:\Users\Soul\Desktop\ORA\AGNES\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Soul\Desktop\ORA\AGNES\bin\Debug\AGNES.dll
+C:\Users\Soul\Desktop\ORA\AGNES\bin\Debug\AGNES.pdb
+C:\Users\Soul\Desktop\ORA\AGNES\bin\Debug\XmlParser.dll
+C:\Users\Soul\Desktop\ORA\AGNES\bin\Debug\XmlParser.pdb
+C:\Users\Soul\Desktop\ORA\AGNES\obj\Debug\AGNES.dll
+C:\Users\Soul\Desktop\ORA\AGNES\obj\Debug\AGNES.pdb
+C:\Users\Soul\Desktop\毕业设计\ORA\AGNES\bin\Debug\AGNES.dll
+C:\Users\Soul\Desktop\毕业设计\ORA\AGNES\bin\Debug\AGNES.pdb
+C:\Users\Soul\Desktop\毕业设计\ORA\AGNES\bin\Debug\XmlParser.dll
+C:\Users\Soul\Desktop\毕业设计\ORA\AGNES\bin\Debug\XmlParser.pdb
+C:\Users\Soul\Desktop\毕业设计\ORA\AGNES\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Soul\Desktop\毕业设计\ORA\AGNES\obj\Debug\AGNES.dll
+C:\Users\Soul\Desktop\毕业设计\ORA\AGNES\obj\Debug\AGNES.pdb
