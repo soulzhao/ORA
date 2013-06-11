@@ -230,12 +230,28 @@ namespace AGNES
             return lgb;
         }
 
+        private int findLocation(List<GroupBean> lst, GroupBean group)
+        {
+            int count = 0;
+            foreach (GroupBean grp in lst)
+            {
+                if (GroupBean.Equals(group, grp))
+                {
+                    break;
+                }
+                count++;
+            }
+            return count;
+        }
+
         private List<GroupBean> newC(GroupBean Ci, GroupBean Cj)
         {
+            // Not append it to the result set but replace the original one at the 
+            // the position where it was!
+            int index = findLocation(C(), Ci);
             List<GroupBean> newSolution = removeGroup(C(), Ci);
+            newSolution.Insert(index, mergeGroup(Ci, Cj));
             newSolution = removeGroup(newSolution, Cj);
-
-            newSolution.Add(mergeGroup(Ci, Cj));
 
             return newSolution;
         }
